@@ -17,10 +17,10 @@ I like to learn and build new things.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimOfficial)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nasimOfficial&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asm-nasim&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nasimOfficial)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asm-nasim)  
 
-![GitHub metrics](https://metrics.lecoq.io/nasimOfficial)  
+![GitHub metrics](https://metrics.lecoq.io/asm-nasim)  
 
-![Profile views](https://gpvc.arturio.dev/nasimOfficial)  
+![Profile views](https://gpvc.arturio.dev/asm-nasim)  

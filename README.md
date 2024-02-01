@@ -1,4 +1,4 @@
-### Hi there 👋, my name is **A.S.M.Nasim Khan**
+### Hi there 👋, my name is **A S M Nasim Khan**
 #### I am a Computer Science student
 I like to learn and build new things.
 
